@@ -4,17 +4,17 @@
 
 I design and ship production web products for B2B, FinTech, and crypto teams. I care about architecture that stays maintainable, code review that raises the bar, and AI-assisted workflows that shorten the path from idea to a reliable release.
 
-Currently building at [OneMiners](https://www.linkedin.com/in/friin/) · Prague, Czechia · UTC+1 · open to product-focused roles in the EU.
+Prague, Czechia · UTC+1 · open to product-focused roles in the EU.
 
 ---
 
 ## Focus
 
-- End-to-end product delivery: architecture, implementation, review, release
+- End-to-end product delivery: **architecture, implementation, review, release**
 - Frontend systems in **React / TypeScript / Next.js**
 - Backend services in **Node.js / NestJS** and **Java / Spring**
 - Data and infrastructure: **PostgreSQL, Supabase, GraphQL, Kafka, Docker, Cloud**
-- Mentoring, review standards, and AI agents for coding, research, and analysis
+- Mentoring, review standards, and **AI agents** for coding, research, and analysis
 
 ## Selected work
 
@@ -47,5 +47,4 @@ Commercial highlights (details on request / LinkedIn):
 ## Contact
 
 - LinkedIn: [linkedin.com/in/friin](https://www.linkedin.com/in/friin/)
-- Email: [viktor.friin@gmail.com](mailto:viktor.friin@gmail.com)
 - GitHub: [github.com/GameTV12](https://github.com/GameTV12)
